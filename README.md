@@ -4,6 +4,6 @@ My [LeetCode](https://leetcode.com/problemset/all/) solutions following the [Nee
 
 ## Index
 
-|     **Name**     | **Languages** |
-| :-------------- | :-----------: |
+| **Name**                                | **Languages** |
+| :-------------------------------------- | :-----------: |
 | [Arrays & Hashing](./1-arrays-hashing/) |     C, JS     |

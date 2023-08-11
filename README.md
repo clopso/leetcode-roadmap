@@ -7,3 +7,4 @@ My [LeetCode](https://leetcode.com/problemset/all/) solutions following the [Nee
 | **Name**                                | **Languages** |
 | :-------------------------------------- | :-----------: |
 | [Arrays & Hashing](./1-arrays-hashing/) |     C, JS     |
+| [Two Pointers](./2-two-pointers/)       |      JS       |

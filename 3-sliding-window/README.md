@@ -10,3 +10,5 @@ All my "Sliding Window" solutions
 |   3   | [Longest Substring Without Repeating Characters](3.js) |      JS      | Medium         |
 |  424  | [Longest Repeating Character Replacement](424.js)      |      JS      | Medium         |
 |  567  | [Permutation in String](567.js)                        |      JS      | Medium         |
+|  76   | [Minimum Window Substring](76.js)                      |      JS      | Hard           |
+|  239  | [Sliding Window Maximum](239.js)                       |      JS      | Hard           |

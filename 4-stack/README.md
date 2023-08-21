@@ -4,7 +4,8 @@ All my "Stack" solutions
 
 ## Index
 
-| **#** | **Title**                  | **Language** | **Difficulty** |
-| :---: | :------------------------- | :----------: | :------------- |
-|  121  | [Valid Parentheses](20.js) |      JS      | Easy           |
-|   3   | [Min Stack](155.js)        |      JS      | Medium         |
+| **#** | **Title**                                  | **Language** | **Difficulty** |
+| :---: | :----------------------------------------- | :----------: | :------------- |
+|  20   | [Valid Parentheses](20.js)                 |      JS      | Easy           |
+|  155  | [Min Stack](155.js)                        |      JS      | Medium         |
+|  150  | [Evaluate Reverse Polish Notation](150.js) |      JS      | Medium         |

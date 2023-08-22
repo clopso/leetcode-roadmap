@@ -9,3 +9,5 @@ All my "Stack" solutions
 |  20   | [Valid Parentheses](20.js)                 |      JS      | Easy           |
 |  155  | [Min Stack](155.js)                        |      JS      | Medium         |
 |  150  | [Evaluate Reverse Polish Notation](150.js) |      JS      | Medium         |
+|  22   | [Generate Parentheses](22.js)              |      JS      | Medium         |
+|  739  | [Daily Temperatures](739.js)               |      JS      | Medium         |

@@ -10,3 +10,4 @@ My [LeetCode](https://leetcode.com/problemset/all/) solutions following the [Nee
 | [Two Pointers](./2-two-pointers/)       |      JS       |
 | [Sliding Window](./3-sliding-window/)   |      JS       |
 | [Stack](./4-stack/)                     |      JS       |
+| [Binary Search](./5-binary-search/)     |      JS       |

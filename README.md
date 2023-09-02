@@ -11,3 +11,4 @@ My [LeetCode](https://leetcode.com/problemset/all/) solutions following the [Nee
 | [Sliding Window](./3-sliding-window/)   |      JS       |
 | [Stack](./4-stack/)                     |      JS       |
 | [Binary Search](./5-binary-search/)     |      JS       |
+| [Linked List](./6-linked-list/)         |      JS       |

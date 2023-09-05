@@ -12,4 +12,4 @@ All my "Binary Search" solutions
 |  153  | [Find Minimum In Rotated Sorted Array](153.js) |      JS      | Medium         |
 |  33   | [Search in Rotated Sorted Array](33.js)        |      JS      | Medium         |
 |  981  | [Time Based Key-Value Store](981.js)           |      JS      | Medium         |
-|   4   | [Time Based Key-Value Store](4.js)             |      JS      | Hard           |
+|   4   | [Median of Two Sorted Arrays](4.js)            |      JS      | Hard           |

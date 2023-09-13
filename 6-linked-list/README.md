@@ -14,3 +14,4 @@ All my "Linked List" solutions
 |   2   | [Add Two Numbers](2.js)                   |      JS      | Medium         |
 |  141  | [Linked List Cycle](141.js)               |      JS      | Easy           |
 |  287  | [Find The Duplicate Number](287.js)       |      JS      | Medium         |
+|  146  | [LRU Cache](146.js)                       |      JS      | Medium         |

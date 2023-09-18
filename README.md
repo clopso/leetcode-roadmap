@@ -12,3 +12,4 @@ My [LeetCode](https://leetcode.com/problemset/all/) solutions following the [Nee
 | [Stack](./4-stack/)                     |      JS       |
 | [Binary Search](./5-binary-search/)     |      JS       |
 | [Linked List](./6-linked-list/)         |      JS       |
+| [Trees](./7-trees/)                     |      JS       |

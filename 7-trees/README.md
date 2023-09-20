@@ -8,3 +8,5 @@ All my "Trees" solutions
 | :---: | :------------------------------------- | :----------: | :------------- |
 |  226  | [Invert Binary Tree](226.js)           |      JS      | Easy           |
 |  104  | [Maximum Depth of Binary Tree](104.js) |      JS      | Easy           |
+|  110  | [Diameter of Binary Tree](110.js)      |      JS      | Easy           |
+|  543  | [Balanced Binary Tree](543.js)         |      JS      | Easy           |

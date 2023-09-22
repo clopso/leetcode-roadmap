@@ -11,3 +11,4 @@ All my "Trees" solutions
 |  110  | [Diameter of Binary Tree](110.js)      |      JS      | Easy           |
 |  543  | [Balanced Binary Tree](543.js)         |      JS      | Easy           |
 |  100  | [Same Tree](100.js)                    |      JS      | Easy           |
+|  572  | [Subtree of Another Tree](572.js)      |      JS      | Easy           |

@@ -13,3 +13,5 @@ All my "Trees" solutions
 |  100  | [Same Tree](100.js)                                      |      JS      | Easy           |
 |  572  | [Subtree of Another Tree](572.js)                        |      JS      | Easy           |
 |  235  | [Lowest Common Ancestor of a Binary Search Tree](235.js) |      JS      | Medium         |
+|  102  | [Binary Tree Level Order Traversal](102.js)              |      JS      | Medium         |
+|  199  | [Binary Tree Right Side View](199.js)                    |      JS      | Medium         |

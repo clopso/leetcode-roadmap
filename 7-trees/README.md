@@ -15,3 +15,4 @@ All my "Trees" solutions
 |  235  | [Lowest Common Ancestor of a Binary Search Tree](235.js) |      JS      | Medium         |
 |  102  | [Binary Tree Level Order Traversal](102.js)              |      JS      | Medium         |
 |  199  | [Binary Tree Right Side View](199.js)                    |      JS      | Medium         |
+| 1448  | [Count Good Nodes In Binary Tree](1448.js)               |      JS      | Medium         |

@@ -19,4 +19,5 @@ All my "Trees" solutions
 |  98   | [Validate Binary Search Tree](98.js)                                |      JS      | Medium         |
 |  230  | [Kth Smallest Element In a Bst](230.js)                             |      JS      | Medium         |
 |  105  | [Construct Binary Tree From Preorder And Inorder Traversal](105.js) |      JS      | Medium         |
-|  124  | [Binary Tree Maximum Path Sum](124.js)                              |      JS      | Hard         |
+|  124  | [Binary Tree Maximum Path Sum](124.js)                              |      JS      | Hard           |
+|  297  | [Serialize And Deserialize Binary Tree](297.js)                     |      JS      | Hard           |

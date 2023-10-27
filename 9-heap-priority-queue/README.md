@@ -12,3 +12,4 @@ All my "Heap / Priority Queue" solutions
 |  215  | [Kth Largest Element In An Array](215.js) |      JS      | Medium         |
 |  621  | [Task Scheduler](621.js)                  |      JS      | Medium         |
 |  355  | [Design Twitter](355.js)                  |      JS      | Medium         |
+|  295  | [Find Median From Data Stream](295.js)    |      JS      | Hard           |

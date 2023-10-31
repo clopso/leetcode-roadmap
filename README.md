@@ -15,3 +15,4 @@ My [LeetCode](https://leetcode.com/problemset/all/) solutions following the [Nee
 | [Trees](./7-trees/)                               |      JS       |
 | [Tries](./8-tries/)                               |      JS       |
 | [Heap / Priority Queue](./9-heap-priority-queue/) |      JS       |
+| [Backtracking](./10-backtracking/)                |      JS       |
